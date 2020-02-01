@@ -8,5 +8,4 @@
 
 cd /home
 pwd
-ls 
 
