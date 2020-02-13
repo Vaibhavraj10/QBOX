@@ -1,0 +1,5 @@
+2, 3, 4, 5, 6
+0.8515, 2.4725, 7.469, 22.4100
+increasing
+The subsequent transmissions of the same acknowledgment is called a duplicate ACK.
+At the data link layer, duplex mismatch on Ethernet is probably the most common cause of packet errors.

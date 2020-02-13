@@ -1,0 +1,2 @@
+113, 117
+The TCP receive buffer is full and it cannot receive any more data. It may have a stuck processor or be busy with some other task, which can cause the TCP receive buffer to fill.
