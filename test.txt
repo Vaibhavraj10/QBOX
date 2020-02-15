@@ -1,0 +1,1 @@
+Hi! This is the testing file. Please check if you can see the contents of it after transferring it through FTP.
